@@ -4,7 +4,7 @@ import pcPhoto from "../assets/pc-photo.webp";
 const AboutMe = () => {
   const whatsappLink = () => {
     window.open(
-      "https://wa.me/5585991752876?text=Ol%C3%A1%2C+estou+em+busca+de+um+automatiza%C3%A7%C3%A3o%21",
+      "https://wa.me/5585991752876?text=Ol%C3%A1%2C+gostaria+de+saber+mais+sobre+como+voce+pode+me+ajudar",
       "_blank"
     );
   };
