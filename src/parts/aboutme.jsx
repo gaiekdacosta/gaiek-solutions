@@ -1,5 +1,5 @@
 import { FaWhatsapp } from "react-icons/fa";
-import pcPhoto from "../assets/pc-photo.webp";
+import pcPhoto from "../../public/pc-photo.webp";
 
 const AboutMe = () => {
   const whatsappLink = () => {

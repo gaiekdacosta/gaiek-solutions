@@ -1,4 +1,5 @@
 /** @type {import('tailwindcss').Config} */
+
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
@@ -7,7 +8,7 @@ export default {
         primary: "#2FCCDB",
       },
       backgroundImage: {
-        "background-start": "url('./src/assets/bg.webp')",
+        "background-start": "url('./public/bg.webp')",
       },
       backgroundColor: {
         translucent: "rgba(255, 255, 255, 0.1)",
