@@ -1,5 +1,5 @@
 import { FaWhatsapp } from "react-icons/fa";
-import pcPhoto from "../../public/pc-photo.webp";
+import img from '../../public/assets/pc-photo.webp'
 
 const AboutMe = () => {
   const whatsappLink = () => {
@@ -33,7 +33,7 @@ const AboutMe = () => {
             mobile:h-[350px]
             mobile:w-[350px]'
           alt='pc foto'
-          src={pcPhoto}
+          src='assets/pc-photo.webp'
         />
         <div className='w-[450px] mobile:w-80'>
           <h3 className='text-primary font-semibold text-[15px] tracking-widest'>
