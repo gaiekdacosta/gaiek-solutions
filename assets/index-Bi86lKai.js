@@ -195,7 +195,7 @@ Error generating stack: `+o.message+`
             bg-cover\r
             bg-center\r
             bg-no-repeat\r
-          `,style:{backgroundImage:"url('assets/pc-photo.webp')"},children:v.jsxs("div",{className:`\r
+          `,style:{backgroundImage:"url('assets/bg.webp')"},children:v.jsxs("div",{className:`\r
           flex \r
           justify-between \r
           mr-16 \r
