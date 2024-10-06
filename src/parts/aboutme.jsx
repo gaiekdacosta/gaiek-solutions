@@ -72,7 +72,7 @@ const AboutMe = () => {
                 transition delay-150
                 hover:shadow-custom
               '>
-            <FaWhatsapp style={{ fontSize: "18px" }} /> Enviar mensagem agora
+            <FaWhatsapp style={{ fontSize: "18px" }} /> Enviar mensagem por whatsapp
           </button>
         </div>
       </div>

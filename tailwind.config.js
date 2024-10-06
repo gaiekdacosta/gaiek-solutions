@@ -1,7 +1,5 @@
 /** @type {import('tailwindcss').Config} */
 
-import a from '../gaiek-solutions/'
-
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
@@ -10,7 +8,7 @@ export default {
         primary: "#2FCCDB",
       },
       backgroundImage: {
-        "background-start": "url('assets/bg.webp')",
+        "background-start": 'assets/bg.webp',
       },
       backgroundColor: {
         translucent: "rgba(255, 255, 255, 0.1)",
