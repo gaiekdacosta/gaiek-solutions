@@ -205,7 +205,7 @@ Error generating stack: `+o.message+`
           mobile: mt-20\r
           mobile:mr-3\r
           mobile:ml-3\r
-          mobile:flex-col`,children:[v.jsxs("div",{className:"flex flex-col w-[40%] mobile:w-[100%]",children:[v.jsx("p",{className:"text-primary text-[19px] font-semibold tracking-widest",children:"BEM-VINDO"}),v.jsxs("h1",{className:"text-[40px] font-extrabold leading-10 mobile:text-[30px]",children:["Desde páginas de vendas até sistemas de gestão completos eu tenho a solução"," ",v.jsx("span",{className:"text-primary",children:"ideal para o seu negócio."})]}),v.jsx("h3",{className:"text-[18px] leading-5 mt-2",children:"Descubra como eu posso facilitar as coisas na sua empresa."})]}),v.jsx("div",{className:"flex w-[40%] justify-center items-center mobile:w-[100%] mt-6",children:v.jsx("div",{className:`\r
+          mobile:flex-col`,children:[v.jsxs("div",{className:"flex flex-col w-[40%] mobile:w-[100%]",children:[v.jsx("p",{className:"text-primary text-[19px] font-semibold tracking-widest",children:"BEM-VINDO"}),v.jsxs("h1",{className:"text-[40px] font-extrabold leading-10 mobile:leading-8 mobile:text-[30px]",children:["Desde páginas de vendas até sistemas de gestão completos eu tenho a solução"," ",v.jsx("span",{className:"text-primary",children:"ideal para o seu negócio."})]}),v.jsx("h3",{className:"text-[18px] leading-5 mt-2",children:"Descubra como eu posso facilitar as coisas na sua empresa."})]}),v.jsx("div",{className:"flex w-[40%] justify-center items-center mobile:w-[100%] mt-6",children:v.jsx("div",{className:`\r
                 w-[100%]\r
                 rounded-md \r
                 p-3\r
