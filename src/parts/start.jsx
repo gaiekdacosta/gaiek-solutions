@@ -21,11 +21,11 @@ const Start = () => {
           justify-center
           items-center
           h-[100vh]
-          bg-background-start
           bg-cover
           bg-center
           bg-no-repeat
         "
+        style={{ backgroundImage: 'assets/bg.webp' }}
       >
         <div
           className="

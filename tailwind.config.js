@@ -7,9 +7,6 @@ export default {
       colors: {
         primary: "#2FCCDB",
       },
-      backgroundImage: {
-        "background-start": 'assets/bg.webp',
-      },
       backgroundColor: {
         translucent: "rgba(255, 255, 255, 0.1)",
       },
