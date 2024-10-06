@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import { CiChat1 } from "react-icons/ci";
 import Form from "../components/form";
 import { FaCircleCheck } from "react-icons/fa6";
-import bg from 'assets/pc-photo.webp'
 
 const Start = () => {
   const [name, setName] = useState('');
@@ -23,7 +22,7 @@ const Start = () => {
             bg-center
             bg-no-repeat
           "
-          style={{ backgroundImage: `url(${bg})` }}
+          style={{ backgroundImage: "url('assets/bg.webp')" }}
         >
         <div
           className="
@@ -42,7 +41,7 @@ const Start = () => {
             <p className="text-primary text-[19px] font-semibold tracking-widest">
               BEM-VINDO
             </p>
-            <h1 className="text-[40px] font-extrabold leading-10 mobile:text-[30px]">
+            <h1 className="text-[40px] font-extrabold leading-10 mobile:leading-8 mobile:text-[30px]">
               Desde páginas de vendas até sistemas de gestão completos eu tenho
               a solução{" "}
               <span className="text-primary">ideal para o seu negócio.</span>
