@@ -68,7 +68,7 @@ Error generating stack: `+o.message+`
                 font-bold \r
                 transition delay-150\r
                 hover:shadow-custom\r
-              `,children:[v.jsx(qd,{style:{fontSize:"18px"}})," Enviar mensagem agora"]})]})]})})};function np(e){return Ve({tag:"svg",attr:{viewBox:"0 0 512 512"},child:[{tag:"path",attr:{d:"M432 176H80c-8.8 0-16-7.2-16-16s7.2-16 16-16h352c8.8 0 16 7.2 16 16s-7.2 16-16 16zM432 272H80c-8.8 0-16-7.2-16-16s7.2-16 16-16h352c8.8 0 16 7.2 16 16s-7.2 16-16 16zM432 368H80c-8.8 0-16-7.2-16-16s7.2-16 16-16h352c8.8 0 16 7.2 16 16s-7.2 16-16 16z"},child:[]}]})(e)}function rp(e){return Ve({tag:"svg",attr:{viewBox:"0 0 512 512"},child:[{tag:"path",attr:{d:"M48 448l416-192L48 64v149.333L346 256 48 298.667z"},child:[]}]})(e)}const lp=()=>{const[e,t]=$e.useState(!1),n=r=>{window.scrollTo({top:r,behavior:"smooth"})};return v.jsxs(v.Fragment,{children:[v.jsxs("div",{className:`\r
+              `,children:[v.jsx(qd,{style:{fontSize:"18px"}})," Enviar mensagem por whatsapp"]})]})]})})};function np(e){return Ve({tag:"svg",attr:{viewBox:"0 0 512 512"},child:[{tag:"path",attr:{d:"M432 176H80c-8.8 0-16-7.2-16-16s7.2-16 16-16h352c8.8 0 16 7.2 16 16s-7.2 16-16 16zM432 272H80c-8.8 0-16-7.2-16-16s7.2-16 16-16h352c8.8 0 16 7.2 16 16s-7.2 16-16 16zM432 368H80c-8.8 0-16-7.2-16-16s7.2-16 16-16h352c8.8 0 16 7.2 16 16s-7.2 16-16 16z"},child:[]}]})(e)}function rp(e){return Ve({tag:"svg",attr:{viewBox:"0 0 512 512"},child:[{tag:"path",attr:{d:"M48 448l416-192L48 64v149.333L346 256 48 298.667z"},child:[]}]})(e)}const lp=()=>{const[e,t]=$e.useState(!1),n=r=>{window.scrollTo({top:r,behavior:"smooth"})};return v.jsxs(v.Fragment,{children:[v.jsxs("div",{className:`\r
           flex \r
           items-center \r
           justify-between \r
