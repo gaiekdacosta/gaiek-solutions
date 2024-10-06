@@ -192,11 +192,10 @@ Error generating stack: `+o.message+`
           justify-center\r
           items-center\r
           h-[100vh]\r
-          bg-background-start\r
           bg-cover\r
           bg-center\r
           bg-no-repeat\r
-        `,children:v.jsxs("div",{className:`\r
+        `,style:{backgroundImage:"assets/bg.webp"},children:v.jsxs("div",{className:`\r
           flex \r
           justify-between \r
           mr-16 \r
