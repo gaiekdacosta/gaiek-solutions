@@ -1,10 +1,8 @@
 import React, { useState } from "react";
 import { CiChat1 } from "react-icons/ci";
-import { IoMdSend } from "react-icons/io";
-import emailjs from 'emailjs-com';
-import { FaCheckCircle } from "react-icons/fa";
 import Form from "../components/form";
 import { FaCircleCheck } from "react-icons/fa6";
+import bg from 'assets/pc-photo.webp'
 
 const Start = () => {
   const [name, setName] = useState('');
@@ -15,18 +13,18 @@ const Start = () => {
 
   return (
     <>
-      <div
-        className="
-          flex
-          justify-center
-          items-center
-          h-[100vh]
-          bg-cover
-          bg-center
-          bg-no-repeat
-        "
-        style={{ backgroundImage: 'assets/bg.webp' }}
-      >
+        <div
+          className="
+            flex
+            justify-center
+            items-center
+            h-[100vh]
+            bg-cover
+            bg-center
+            bg-no-repeat
+          "
+          style={{ backgroundImage: `url(${bg})` }}
+        >
         <div
           className="
           flex 

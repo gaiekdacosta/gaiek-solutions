@@ -1,4 +1,5 @@
 /** @type {import('tailwindcss').Config} */
+import a from './public/assets/bg-webp'
 
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
