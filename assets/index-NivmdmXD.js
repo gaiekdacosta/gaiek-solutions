@@ -188,14 +188,14 @@ Error generating stack: `+o.message+`
                     transition delay-150\r
                     hover:shadow-custom\r
                     `,children:[v.jsx(rp,{style:{fontSize:"19px"}}),"Enviar Mensagem"]})]})};function vp(e){return Ve({tag:"svg",attr:{viewBox:"0 0 512 512"},child:[{tag:"path",attr:{d:"M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM369 209L241 337c-9.4 9.4-24.6 9.4-33.9 0l-64-64c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0l47 47L335 175c9.4-9.4 24.6-9.4 33.9 0s9.4 24.6 0 33.9z"},child:[]}]})(e)}const yp=()=>{const[e,t]=$e.useState(""),[n,r]=$e.useState(""),[l,o]=$e.useState(""),[i,u]=$e.useState(""),[s,c]=$e.useState(!1);return v.jsx(v.Fragment,{children:v.jsx("div",{className:`\r
-          flex\r
-          justify-center\r
-          items-center\r
-          h-[100vh]\r
-          bg-cover\r
-          bg-center\r
-          bg-no-repeat\r
-        `,style:{backgroundImage:"assets/bg.webp"},children:v.jsxs("div",{className:`\r
+            flex\r
+            justify-center\r
+            items-center\r
+            h-[100vh]\r
+            bg-cover\r
+            bg-center\r
+            bg-no-repeat\r
+          `,style:{backgroundImage:"url('assets/pc-photo.webp')"},children:v.jsxs("div",{className:`\r
           flex \r
           justify-between \r
           mr-16 \r
